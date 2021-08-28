@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/H4ck3rBatera/API.NodeJS.Mongo/issues"
   },
-  "homepage": "https://github.com/H4ck3rBatera/API.NodeJS.Mongo#readme"
+  "homepage": "https://github.com/H4ck3rBatera/API.NodeJS.Mongo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.2"
+  }
 }
