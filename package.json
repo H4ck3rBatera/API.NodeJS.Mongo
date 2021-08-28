@@ -1,0 +1,19 @@
+{
+  "name": "api-nodejs-mongo",
+  "version": "1.0.0",
+  "description": "API + NodeJS + Express + Mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H4ck3rBatera/API.NodeJS.Mongo.git"
+  },
+  "author": "Jessé Toledo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H4ck3rBatera/API.NodeJS.Mongo/issues"
+  },
+  "homepage": "https://github.com/H4ck3rBatera/API.NodeJS.Mongo#readme"
+}
