@@ -1,4 +1,4 @@
-version: '3'
+version: "3"
 
 services:
   mongo:
@@ -11,6 +11,6 @@ services:
     networks:
       - mongo-compose-network
 
-networks: 
-    mongo-compose-network:
-      driver: bridge
+networks:
+  mongo-compose-network:
+    driver: bridge
