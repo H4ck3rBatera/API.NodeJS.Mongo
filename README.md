@@ -8,5 +8,7 @@ npm i express
 
 npm i mongoose
 
+npm i bcryptjs
+
 node .\src\index.js
 ```
